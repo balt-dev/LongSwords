@@ -1,5 +1,6 @@
 curseforge is dumb and denied the resource pack so i put it here
 
+# If you just want to download it, look at the right of the screen for `Releases` and it should be there.
 # Long Swords
 
 Basically all this does is makes swords really, really long. Nothing else to it.
