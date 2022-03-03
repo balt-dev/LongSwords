@@ -11,3 +11,6 @@ Basically all this does is makes swords really, really long. Nothing else to it.
 
 ### Full scale image of sword (Open in new tab and zoom in)
 ![Player holding long sword](https://user-images.githubusercontent.com/59123926/156651206-83f315de-ff2a-486e-92d2-d92a4f2af90b.png)
+
+## Generator
+If you want to make a sword that's larger (or smaller), you can [download the entire repository](https://github.com/balt-is-you-and-shift/LongSwords/archive/refs/heads/main.zip), edit the `/generator/longsword-gen.py` file, and then run it. It'll generate the sword as the specified amount of pixels long, plus the handle and tip.
