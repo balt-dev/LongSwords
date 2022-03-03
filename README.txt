@@ -1,0 +1,2 @@
+If you want to make a different length sword, edit the python script in the /generator folder following the directions given by the comments, and run it from the generator directory.
+Credits are embedded in the pack.mcmeta. 
